@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+npm-debug.log
+coverage/
+.env
+/.vscode
+dist/### Custom .gitignore template
+# Folders
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+coverage/
+
+# Files
+.DS_Store
+*.log
+*.js.map
+*.d.ts
+
